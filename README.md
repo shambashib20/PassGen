@@ -1,7 +1,7 @@
 # PassGen
 Password generator using HTML,CSS and JS
 
-Hey, will be working on it further!
+
 
 
 # About Live Demo
